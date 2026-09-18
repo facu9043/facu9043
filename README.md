@@ -53,7 +53,16 @@
 <img src="https://img.shields.io/badge/Nmap-0D0208?style=for-the-badge&logoColor=00FF41&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRkY0MSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMTguNWMtNC42OSAwLTguNS0zLjgxLTguNS04LjVTNy4zMSAzLjUgMTIgMy41czguNSAzLjgxIDguNSA4LjUtMy44MSA4LjUtOC41IDguNXptMy41LTljLS44MyAwLTEuNS0uNjctMS41LTEuNXMuNjctMS41IDEuNS0xLjUgMS41LjY3IDEuNSAxLjUtLjY3IDEuNS0xLjUgMS41em0tNyAwYy0uODMgMC0xLjUtLjY3LTEuNS0xLjVzLjY3LTEuNSAxLjUtMS41IDEuNS42NyAxLjUgMS41LS42NyAxLjUtMS41IDEuNXoiLz48L3N2Zz4=" />
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D0208?style=for-the-badge&logo=wireshark&logoColor=00FF41)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D0208?style=for-the-badge&logo=burpsuite&logoColor=FF00FF)
-![Bash](https://img.shields.io/badge/Bash-0D0208?style=for-the-badge&logo=gnubash&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-0D0208?style=for-the-badge&logo=gnubash&logoColor=00FF41) 
+<br/>
+
+![Metasploit](https://img.shields.io/badge/🎯_Metasploit-0D0208?style=for-the-badge&logoColor=00FF41)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0D0208?style=for-the-badge&logo=owasp&logoColor=00FF41)
+![John the Ripper](https://img.shields.io/badge/🔓_John_the_Ripper-0D0208?style=for-the-badge&logoColor=FF00FF)
+![Hashcat](https://img.shields.io/badge/🔑_Hashcat-0D0208?style=for-the-badge&logoColor=00FF41)
+![Mimikatz](https://img.shields.io/badge/🗝️_Mimikatz-0D0208?style=for-the-badge&logoColor=FF00FF)
+![Nessus](https://img.shields.io/badge/🛰️_Nessus-0D0208?style=for-the-badge&logoColor=00FF41)
+![THC-Hydra](https://img.shields.io/badge/🐉_THC--Hydra-0D0208?style=for-the-badge&logoColor=FF00FF)
 
 </div>
 
